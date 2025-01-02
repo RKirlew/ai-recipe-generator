@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ai-recipe-generator-dev-dcc42-authRole",
+      "UnauthRoleArn": "arn:aws:iam::112845972562:role/amplify-ai-recipe-generator-dev-dcc42-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::112845972562:role/amplify-ai-recipe-generator-dev-dcc42-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ai-recipe-generator-dev-dcc42-deployment",
+      "UnauthRoleName": "amplify-ai-recipe-generator-dev-dcc42-unauthRole",
+      "StackName": "amplify-ai-recipe-generator-dev-dcc42",
+      "StackId": "arn:aws:cloudformation:us-east-1:112845972562:stack/amplify-ai-recipe-generator-dev-dcc42/799c0650-c95b-11ef-8d83-0e3c18f7ab13",
+      "AmplifyAppId": "d1j0xmzcn1mfnm"
+    }
+  }
+}
